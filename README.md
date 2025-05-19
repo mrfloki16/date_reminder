@@ -1,2 +1,2 @@
 # date_reminder
-Python project to remind important dates!
+Python project for reminding important dates!
